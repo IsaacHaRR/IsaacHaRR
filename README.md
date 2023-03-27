@@ -1,11 +1,13 @@
-### Hi there 👋
- - Estudando : Computer Science - University of São Paulo
+<h3> Hi there 👋 </h3>
+ 💻 Computer Science - University of São Paulo
 
-<div>
-  <a href="https://beacons.ai/IsaacHaRR">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IsaacHaRR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacHaRR&layout=compact&langs_count=16&theme=dark"/>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Isaac-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Isaac-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<h3> Programing Languages </h3>
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+<div align="center">
+	<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IsaacHaRR&show_icons=true&theme=tokyonight&include_all_commits=True"/>
+	<img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IsaacHaRR&layout=compact&langs_count=7&theme=dark"/>
+</div>
