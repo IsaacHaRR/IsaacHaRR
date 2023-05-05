@@ -1,5 +1,8 @@
 ## 🇧🇷 About Me:
-💻 Computer Science - University of São Paulo<br>🤝 I’m looking for help you to Learn<br>📈 I’m currently learning Data Science<br>🏀 i love basketball
+💻 Computer Science - University of São Paulo<br>
+🤝 I’m looking for help you to Learn<br>
+📈 I’m currently learning Machine Learning<br>
+🏀 i love basketball
 
 
 ## 🌐 Socials:
