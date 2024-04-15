@@ -1,7 +1,8 @@
 ## 🇧🇷 About Me:
 💻 Computer Science - University of São Paulo<br>
-🤝 I’m looking for help you to Learn<br>
-📈 I’m currently learning Machine Learning<br>
+📝 I love teaching programming to children and Teenagers<br>
+🤖 I’m currently learning Machine Learning<br>
+💰 My hobby is studying finance and investments<br>
 🏀 i love basketball
 
 
